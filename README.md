@@ -16,8 +16,13 @@ The goal of this investment portfolio is to provide the client with a classifica
 • We have already increased the number of features in the dataset so we now want to perform dimensionality reduction with PCA. we are trying to preserve 90% of the explained variance in this reduction. 
 • Next, we further want to reduce the dimensions using t-SNE and create a scatter plot of the output. 
 
+![Screenshot 2021-12-15 183303](https://user-images.githubusercontent.com/81705144/146286360-096ca2eb-eaa0-4bde-be03-611721ba24e3.png)
+
+
 ### K-means:
 • Finally we create an elbow plot to identify the best number of clusters. 
+
+![Screenshot 2021-12-15 183303](https://user-images.githubusercontent.com/81705144/146286329-762147f1-5979-47e8-aedc-b29e20ecc691.png)
 
 
 ### Final thoughts:
